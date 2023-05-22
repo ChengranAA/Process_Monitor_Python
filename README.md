@@ -53,4 +53,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This package is licensed under the GPL3.0 License. See the [LICENSE](https://chat.openai.com/c/LICENSE) file for more information.
+This package is licensed under the GPL3.0 License. See the [LICENSE](https://github.com/ChengranAA/Process_Monitor_Python/blob/main/LICENSE) file for more information.
