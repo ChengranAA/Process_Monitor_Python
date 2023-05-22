@@ -1,4 +1,4 @@
-# Process Monitoring Package (Working in Progress ...)
+# Process Monitoring Package (Work in Progress ...)
 
 The Process Monitoring package provides functionality to monitor a process by its PID and send email notifications when the process completes.
 
