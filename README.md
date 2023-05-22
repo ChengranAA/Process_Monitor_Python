@@ -41,6 +41,12 @@ monitor_process(pid, sender_email, receiver_email, password)
 
 Replace `pid` with the PID of the process you want to monitor. Provide the necessary email configuration, including the sender's email, receiver's email, and email password. This function will continuously check if the process is running. When the process is completed, an email notification will be sent.
 
+## Email 
+
+I recommend creating a separate Gmail email account and utilizing an app-specific password for this package, as it operates through the Gmail server. To access this option, navigate to the security settings within your Gmail account.
+
+see this video for details: https://www.youtube.com/watch?v=Sddnn6dpqk0&t=548s
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
