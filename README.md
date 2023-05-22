@@ -7,7 +7,7 @@ The Process Monitoring package provides functionality to monitor a process by it
 You can install the package using `pip`:
 
 ```
-pip install process-monitoring
+pip install .
 ```
 
 ## Usage
