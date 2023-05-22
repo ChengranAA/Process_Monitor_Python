@@ -4,9 +4,15 @@ The Process Monitoring package provides functionality to monitor a process by it
 
 ## Installation
 
-You can install the package using `pip`:
+You can install the package using `pip` through PyPI:
 
+```bash
+pip install process-monitoring-package
 ```
+
+or clone this repo, nevigate to the directory and install locally:
+
+```bash
 pip install .
 ```
 
